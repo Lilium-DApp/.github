@@ -1,4 +1,4 @@
-# Lilium DApp
+# Lilium DApp 🌱
 
 ## Description
 
