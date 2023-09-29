@@ -1,19 +1,38 @@
-# Lilium DApp 🌱
+# Lilium DApp 🌱🌍
 
-## [Trailer/Video](https://youtu.be/4z_vbJ-XL28?si=hz7z4a8LlPfn1bb9)
-## Description
+## [🎥 Trailer/Video](https://youtu.be/4z_vbJ-XL28?si=hz7z4a8LlPfn1bb9)
+## 📄 Description
 
-For a better understanding of what has been done, we have created a document to synthesize information about the project. To access it, [click here](https://docs.google.com/document/d/1RfbDsmtZjTl7tXZozANX4p2hKx_803SoaTvxjrp4LLk/edit?usp=sharing).
+For a comprehensive understanding of the Lilium DApp, a detailed document synthesizes all pertinent information about the project. Access the full document [here](https://docs.google.com/document/d/1RfbDsmtZjTl7tXZozANX4p2hKx_803SoaTvxjrp4LLk/edit?usp=sharing).
 
-### Solution Description
+### 🌟 Solution Description
 
-Lilium is a project committed to environmental preservation, achieved through the implementation of a critical carbon credit auction system. Utilizing an innovative approach that integrates advanced technologies like Cartesi, Artificial Intelligence, and IoT, we are effectively addressing the fundamental challenges that the carbon credit market faces. Our primary mission is to enable carbon footprint offsetting, providing a comprehensive and impactful solution.
+Lilium DApp is a pioneering project dedicated to environmental conservation through the generation and trading of verified carbon credits. It seamlessly integrates two robust modules, ensuring the efficacy and security of carbon credit transactions:
 
-### Key features
+1. **Auction DApp 🛒**: This module facilitates a revolutionary auction platform for fungible tokens, allowing users to list tokens for auction and prospective bidders to place their bids. The underlying algorithm optimizes the allocation of bids to maximize the seller's profits, ensuring a fair and secure auction environment.
 
-**Auction system**: Auction system was developed with the purpose of making carbon credit tokens from producers with forest reserves available. In this way, companies generating a significant volume of CO2 emissions have the opportunity to bid on the auctioned tokens, aiming to offset their carbon footprint. The entirety of the auction logic has been incorporated into the Cartesi Machine, ensuring that the tokens are auctioned with the same security and transparency provided by blockchain technology, enhanced by the remarkable computational power of the Cartesi Machine.
+2. **Verifier DApp 🔍**: This module employs the YOLOv8 algorithm and Scikit-learn with Gaussian Envelope to process images of trees and analyze environmental data. It assists in the quantification of forest biomass and the evaluation of the environmental quality of the monitored area, contributing to the generation of carbon credits.
 
+### 🗝️ Key Features
 
-**AI-powered Anomaly Detection**: In order to ensure greater accuracy and security of the generated tokens, two artificial intelligence models have been incorporated within a Cartesi Machine. The first of these models utilizes TensorFlow to perform image detection, thus ensuring that the area associated with carbon credit production is maintained in an optimally conserved state. On the other hand, the second model was developed using the Sklearn Elliptic Envelope, with the purpose of identifying anomalies in humidity, temperature, and CO levels in the forest reserve. To this end, the model underwent a training process based on satellite data, allowing it to understand the ideal patterns for the region under consideration.
+**Auction System 🌐**: The Auction DApp module is designed to auction carbon credit tokens from producers with forest reserves, providing companies with a platform to bid on these tokens to offset their carbon emissions. The entire auction logic is embedded within the Cartesi Machine, ensuring unparalleled security and transparency in the auction process.
 
-**IoT system**: An IoT system has been designed for implementation in forest reserve areas. This device consists of temperature and humidity sensors, a volatile gas (CO) meter, and a camera. These pieces of information are collected and subsequently transmitted to the Artificial Intelligence models. In the event of detecting any inconsistencies in the data, tokens cannot be generated.
+**AI-Powered Anomaly Detection 🤖**: The Verifier DApp module incorporates two AI models within a Cartesi Machine to ensure the accuracy and security of the generated tokens. The first model, utilizing TensorFlow, performs image detection to ensure optimal conservation of the area associated with carbon credit production. The second model, developed using the Sklearn Elliptic Envelope, identifies anomalies in humidity, temperature, and CO levels in the forest reserve, ensuring the integrity of the carbon credits generated.
+
+**IoT System 📡**: An IoT system, consisting of temperature and humidity sensors, a volatile gas (CO) meter, and a camera, is deployed in forest reserve areas. The collected data is transmitted to the AI models, ensuring the consistent monitoring and verification of the environmental conditions of the area, further enhancing the reliability of the carbon credits generated.
+
+### 🚀 Building and Deploying the Application
+
+For detailed instructions on building and deploying the Lilium DApp, including the Auction and Verifier DApp modules, refer to the comprehensive guides provided in the initial descriptions. These guides provide step-by-step instructions, ensuring a smooth and efficient setup and deployment process.
+
+### 💻 Access the Application
+
+Interact with the Lilium DApp and explore its innovative features by accessing the application frontend [here](https://frontend-orcin-psi.vercel.app/).
+
+## ⚠️ Disclaimer
+
+This repository is in development and not ready for production use. The code and documentation are provided as-is, and may contain bugs or other issues. Please thoroughly test and review the code before considering it for use in a production environment.
+
+## 🌟 Special Thanks
+
+A heartfelt gratitude to the individuals and teams whose invaluable assistance and expertise have been instrumental in the realization of the Lilium DApp project. Their continuous support and guidance have been a beacon of light in this project's journey, ensuring its successful development and deployment.
