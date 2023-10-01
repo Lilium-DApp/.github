@@ -1,9 +1,6 @@
 # Lilium DApp 🌱🌍
 
 ## [🎥 Trailer/Video](https://youtu.be/4z_vbJ-XL28?si=hz7z4a8LlPfn1bb9)
-## 📄 Description
-
-For a comprehensive understanding of the Lilium DApp, a detailed document synthesizes all pertinent information about the project. Access the full document [here](https://docs.google.com/document/d/1RfbDsmtZjTl7tXZozANX4p2hKx_803SoaTvxjrp4LLk/edit?usp=sharing).
 
 ### 🌟 Solution Description
 
